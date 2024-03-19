@@ -1,9 +1,6 @@
 
 // project of atm machine cum banking system
 import java.util.*;
-import javax.management.openmbean.OpenType;
-import javax.swing.DefaultBoundedRangeModel;
-import javax.swing.plaf.synth.SynthOptionPaneUI;
 
 
 // main class 
